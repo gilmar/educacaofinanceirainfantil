@@ -28,7 +28,6 @@ repository: "gilmar/educacaofinanceirainfantil"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-analytics
 
 # A list of the pages to display in the navigation bar
 header_pages:
@@ -42,6 +41,5 @@ exclude:
   - node_modules
   - update_boostrap.sh
 
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-146416295-1 
+#Google Analytics Tracking ID
+google_analytics: UA-146416295-1 
