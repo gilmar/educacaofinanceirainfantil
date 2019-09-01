@@ -10,11 +10,6 @@
 $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
 @import url($web-font-path);
 
-// Font-Awesome ===================================================================
-
-$fa-font-path: "fonts/font-awesome/";
-@import 'font-awesome';
-
 // Navbar ======================================================================
 
 .navbar {
