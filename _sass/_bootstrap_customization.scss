@@ -10,6 +10,11 @@
 $web-font-path: "https://fonts.googleapis.com/css?family=Montserrat" !default;
 @import url($web-font-path);
 
+// Font-Awesome ===================================================================
+
+$fa-font-path: "fonts/font-awesome/";
+@import 'font-awesome';
+
 // Navbar ======================================================================
 
 .navbar {
@@ -325,4 +330,9 @@ legend {
   h1, h2, h3, h4, h5, h6 {
     color: inherit;
   }
+}
+
+.jumbotron {
+  background: url("dia_das_criancas.jpg") no-repeat center center;
+  background-size: cover;
 }

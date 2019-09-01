@@ -18,7 +18,7 @@ email: "pry.rossi@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
  Educação Financeira Infantil 
 #baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://educacaofinanceirainfantil.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -29,6 +29,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-analytics
+  - jekyll-font-awesome-sass
 
 # A list of the pages to display in the navigation bar
 header_pages:
