@@ -1,42 +1,19 @@
 ---
 layout: home
-title: Educação Financeira Infantil 
+title: Sobre mim
 ---
 
-# DESAFIO DIA DAS CRIANÇAS - 2019
+![Priscila Rossi](/assets/priscila.jpg){: style="float: left; margin-right: 1em;"}
 
-@educacao.financeira.infantil
+Olá, meu nome é **Priscila Rossi**. Sou mãe da Ivy e do Theo, psicóloga e fotógrafa. Tenho uma vasta experiência trabalhando e avaliando comportamentos, pois atuei por mais de 14 anos recrutando, selecionando, treinando e desenvolvendo profissionais no mercado de trabalho.
 
-## OBJETIVO
+Minha bagagem na área financeira teve início quando atuava como Human Resources Business Partner de todo o time financeiro de uma empresa multinacional. Pude me especializar mais na área e acompanhar na prática a aplicação de muitas ferramentas. 
 
-* Conhecimento de técnicas e conceitos
-* Colocá-los em prática
-* Comprar um presente que esteja dentro do orçamento atendendo as
-expectativas da criança
+Estudando sobre Economia Comportamental encontrei o que eu estava buscando: o impacto de fatores comportamentais, psicológicos, cognitivos e emocionais na tomada de decisões no âmbito econômico de cada indivíduo. A partir daí entendi que seria fundamental desenvolver a inteligência emocional das crianças, para que se tornassem adultos seguros e líderes de uma vida financeira sustentável.
 
-## PROPOSTA
-4 aulas com passo a passo para desenvolver o desafio.
-Datas e sequência das aulas a definir.
-Disponibilidade durante todo o período, até o Dia das Crianças, para
-esclarecimento de dúvidas e suporte por DM.
+E, para isso, conto com ferramentas da Disciplina Positiva que me ajudam a educar meus filhos de maneira respeitosa e assertiva, ensinando-os a reconhecer e lidar com sentimentos, serem confiantes na tomada de decisões e incentivando-os na resolução de problemas. Todas essas características são primordiais para sucesso na vida financeira.
 
-### Aula 1:
-* Explicação da proposta do desafio
-* Desenvolver uma lista de presentes com tudo que seu filho deseja
-* Ferramentas para criar magia para essa espera
-* Os pais como exemplo: ferramentas para ajudar seu filho através das
-suas atitudes
+Além disso, acredito que o trabalho é o caminho para uma vida financeira próspera e, por isso, sempre me mantive ativa, criando, aprendendo e buscando ser útil no meio em que estava inserida.
 
-### Aula 2:
-* Afunilamento da lista
-* Programação do seu orçamento
-* Visita a loja de brinquedos para transmissão de conceitos
-* Usar a semana pra pensar no presente finalista
-* Conceitos matemáticos de acordo com a idade da criança
+Conte comigo nessa jornada. Meu principal objetivo não é te dizer como enriquecer seu filho, mas sim te ajudar a criar um ser humano maduro emocionalmente, capaz de ser responsável pelo seu próprio destino.
 
-### Aula 3:
-* Definição do presente perfeito e toda magia que isso envolve
-
-### Aula 4:
-* Entrega do presente
-* Discurso sobre a atividade para usar com a criança
