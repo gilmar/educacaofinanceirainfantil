@@ -3,7 +3,7 @@ layout: home
 title: Sobre mim
 ---
 
-![Priscila Rossi](/assets/priscila.jpg){: style="float: left; margin-right: 1em;"}
+![Priscila Rossi](/assets/priscila.jpg){: .center-image }
 
 Olá, meu nome é **Priscila Rossi**. Sou mãe da Ivy e do Theo, psicóloga e fotógrafa. Tenho uma vasta experiência trabalhando e avaliando comportamentos, pois atuei por mais de 14 anos recrutando, selecionando, treinando e desenvolvendo profissionais no mercado de trabalho.
 

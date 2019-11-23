@@ -11,9 +11,14 @@
 .jumbotron {
     background: url("dia_das_criancas.jpg") no-repeat center center;
     background-size: cover;
-  }
+}
 
-  .natal .jumbotron {
+.natal .jumbotron {
     background: url("desafio_de_natal.jpg") no-repeat center center;
     background-size: cover;
-  }
+}
+
+.center-image {
+    margin: 0 auto;
+    display: block;
+}
